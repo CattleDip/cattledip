@@ -23,4 +23,4 @@ repos:
     hooks:
       - id: shellcheck
       - id: shfmt
-        args: [-i 2 -d -l]
+        args: ["-i", "2", "-d", "-l"]
